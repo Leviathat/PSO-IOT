@@ -1,0 +1,1 @@
+2024-04-17 13:40:23,734 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
